@@ -1,4 +1,4 @@
-
+![](result.jpg)
 
 Step 1: Enabling GPU within your notebook
 
@@ -24,5 +24,3 @@ Step 5: Run Your Detections with Darknet and YOLOv4!
 Step 6: Uploading Local or Google Drive Files to Use
 
       You may want to run detections on more than just the images within the darknet/data/ folder. This step will show you how to upload local or Google Drive files to the cloud VM and run detections on them!
-
-![](result.jpg)
